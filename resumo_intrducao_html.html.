@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=devide-width, initial-scale=1.0"
+<meta name="description"
+content="Exemplo de um documento html com principais marcações para o corpo.">
+<meta name="author" content="Nome do Autor">
+<title>Exemplo Completo de HTML</title>
+<link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+<h1>Título Principal</h1>
+<h2>Subtítulo</h2>
+<h3>Subsubtítulo</h3>
+<p>Este é um parágrafo que contém algum texto explicativo sobre o conteúdo da página. Aqui podemos inserir várias informações que são relevantes para o usuário.</p>
+<ul>
+      <li>Item 1 da lista não ordenada</li>
+      <li>Item 2 da lista não ordenada</li>
+      <li>Item 3 da lista não ordenada</li>
+</ul>
+<ol>
+      <li>Primeiro item da lista ordenada</li>
+      <li>Segundo item da lista ordenada</li>
+      <li>Terceiro item da lista ordenada</li>
+</ol>
+<p>Visite o <a href="https://www.exemplo.com">nosso site</a>
+    para mais informações.</p>
+<p>Envie um email para <a href="mailto.contatoexemplo.com">
+     nosso contato</a>.</p>
+<p> <a href="#secao1">Ir para a Seção 1</a> nesta mesma página.</p>
+<p>Este é um <i>testo em itálico</!>, <b>negrito</b>, <u>sublinhado</u>,
+    <em>com enfâse</em>, e <stong>importante</strong>.</p>
+<blockquote>
+    "A Web é para todos." Tim Berners-Lee
+</blockquote>
+<p>A fórmula química da água é H<sub>2</sub>O, e E= mc<sup>2</sup> é a famosa equação de Einstein.</p>
+  <pre>
+      <code>
+        for (let i = 0; i < 10; i++) {
+        console.log(i) ;
+        }
+     </code>
+   </pre>
+<p>Este evento acontecerá em <time datetime="2024-08-27">
+      27 de Agosto de 2024</time>.</p>
+</body>
+</html>
